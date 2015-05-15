@@ -17,7 +17,7 @@ To do this, simply add a ``.gitignore`` file to your ``configs/environment`` dir
 
 ## Requirements
 
-This library uses PHP 5.4+.
+This library uses PHP 5.3+.
 
 ## Installation
 
